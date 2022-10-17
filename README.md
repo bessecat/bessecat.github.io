@@ -171,6 +171,7 @@
                             tecnologia e buscando fazer a diferença em qualquer atuação possível.
                         </p>
                     </div>
+                    </div>
                 </section>
                 <footer class="text-center textoFooter">
                      <p align="center">© 2022 Daniella Ventorim Bessegatto, Inc
