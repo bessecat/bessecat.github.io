@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -193,7 +192,5 @@
     <p align="center">© 2022 Daniella Ventorim Bessegatto, Inc
     </p>
 </footer>
-
-</body>
 
 </html>
