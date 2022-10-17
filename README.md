@@ -1,9 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio</title>
+    <title>Portifólio</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
@@ -23,34 +25,43 @@
             max-width: 100%;
             border-radius: 5%;
         }
+
         .corPrimaria {
-            background-color:#94DDDE;
+            background-color: #94DDDE;
         }
-        .corSecundaria{
+
+        .corSecundaria {
             background-color: #494389;
         }
-        p{
+
+        p {
             font-family: Arial, Helvetica, sans-serif;
-            color:#494389
+            color: #494389
         }
+
         .icones {
             iconespadding-left: 5px;
         }
-        .titulosBrancos{
-            color:white;
+
+        .titulosBrancos {
+            color: white;
         }
-        .textoClaro{
-            color:#7E74F1 !important;
+
+        .textoClaro {
+            color: #7E74F1 !important;
         }
-        .titulosEscuros{
+
+        .titulosEscuros {
             color: #494389;
         }
-        .textoFooter{
+
+        .textoFooter {
             margin: 0px;
             padding-top: 15px;
             padding-bottom: 15px;
         }
-        html{
+
+        html {
             scroll-behavior: smooth;
         }
     </style>
@@ -85,8 +96,9 @@
         <div class="container">
             <img class="foto-perfil" src="https://i.ibb.co/6Dv3ppR/dani.png" alt="dani">
             <h1 class="jumbotron-heading titulosBrancos">Dani Bessegatto</h1>
-            <p class="lead titulosEscuros"><i>Criativa, estudante de programação, recentemente apaixonada pelo front-end e
-                design nas mais variadas artes possíveis.</i></p>
+            <p class="lead titulosEscuros"><i>Criativa, estudante de programação, recentemente apaixonada pelo front-end
+                    e
+                    design nas mais variadas artes possíveis.</i></p>
             <p>
                 <a href="mailto:danibessegatto@gmail.com" class="btn btn-dark my-2 corSecundaria">Contato</a>
             </p>
@@ -165,15 +177,23 @@
                 <section class="jumbotron text-center corPrimaria" id="sobre-mim">
                     <div class="container">
                         <h2 class="jumbotron-heading titulosBrancos">Sobre mim</h2>
-                        <p class="lead titulosEscuros">Estudante do curso Biopark Connect, muito interessada em me desenvolver na
+                        <p class="lead titulosEscuros">Estudante do curso Biopark Connect, muito interessada em me
+                            desenvolver na
                             programação, especificamente na area de front end. Me considero uma pessoa muito criativa, e
                             sempre busco manter essas inspirações em qualquer projeto. Desde sempre apaixonada por
                             tecnologia e buscando fazer a diferença em qualquer atuação possível.
                         </p>
                     </div>
-                    </div>
                 </section>
-                <footer class="text-center textoFooter">
-                     <p align="center">© 2022 Daniella Ventorim Bessegatto, Inc
-                        </p>
-                </footer>
+            </div>
+        </div>
+    </div>
+</body>
+<footer class="text-center textoFooter">
+    <p align="center">© 2022 Daniella Ventorim Bessegatto, Inc
+    </p>
+</footer>
+
+</body>
+
+</html>
